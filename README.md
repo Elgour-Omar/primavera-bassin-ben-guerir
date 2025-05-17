@@ -19,6 +19,7 @@ Ce dépôt présente un projet complet de planification et d’estimation des re
 ##  Contenu du dépôt
 
 | Dossier | Contenu |
+|--------|---------|
 | `planning/` | Fichier Primavera `.xer` du planning |
 | `ressources/` | Tableur Excel contenant les ressources humaines, matériaux et équipements avec leurs coûts |
 | `captures/` | Captures d’écran du Gantt, des affectations de ressources, etc. |
